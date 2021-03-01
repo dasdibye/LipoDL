@@ -1,8 +1,22 @@
 
-# This is the code that runs fine on Google Colab tody
-# for mol2vec and Lipophilicity
+#
+# Lipophilicity prediction using Conv1D
 
-# We have the code for both the MLRegressor MLP n-layers and LSTM
+#Copyright 2021-2022 Dibyendu Das (Intel), Riya Datta (Chris University), Srinjoy Das
+#Contact Dibyendu Das<dibyendu.das0708@gmail.com>.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
 
 import numpy as np
 import pandas as pd
