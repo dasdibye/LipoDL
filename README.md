@@ -1,5 +1,5 @@
 # LipoDL
-DL models for Lipophilicity prediction
+DL models for Lipophilicity prediction.
 
 The repository uploaded consists of various DL models to predict logP Lipophilicity values. It uses the Lipophilicity database provided by DeepChem for training/prediction.
 The models use Mol2vec encoding for the input molecules. The files uploaded here consist of two classes - 1) where the training/prediction happens by setting the negative logP 
