@@ -1,6 +1,6 @@
 
 #
-# Lipophilicity prediction using Conv1D
+# Lipophilicity prediction using Ensemble - MLP + Conv1D
 
 #Copyright 2021-2022 Dibyendu Das (Intel), Riya Datta (Chris University), Srinjoy Das
 #Contact Dibyendu Das<dibyendu.das0708@gmail.com>.
