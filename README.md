@@ -12,4 +12,4 @@ The lipophilicity database consisting of 4200 molecules is also provided as a .c
 To run you would also need the file model_300dim.pkl for the 300-dim Mol2vec encoding. 
 The link for that file is here: https://github.com/samoturk/mol2vec_notebooks/blob/master/Notebooks/model_300dim.pkl
 
-You can run these Python models on a Linux Ubuntu system which has Tensorflow.
+You can run these Python models on a Linux Ubuntu system which has Tensorflow installed.
