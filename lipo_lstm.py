@@ -51,7 +51,7 @@ def evaluation(model, X_test, y_test):
     plt.figure(figsize=(15, 10))
     fig, ax = plt.subplots()
 
-    ax.scatter(prediction[:400], y_test[:400], c='r', label="prediction_vs_original", linewidth=1.0)
+    ax.scatter( y_test[:400], prediction[:400],c='r', label="prediction_vs_original", linewidth=1.0)
     plt.legend()
     ax.set_xlabel('Real logP')
     ax.set_ylabel('Predicted logP')
